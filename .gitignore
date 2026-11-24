@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+data/*.db
+models/*.joblib
+.pytest_cache/
+.DS_Store
+
+# Local backups and archives
+*_backup.py
+*_backup.*
+*.bak
+*.zip
+backup/
+backups/
+
+# Local runtime files
+.streamlit/

@@ -1,0 +1,8 @@
+{
+  "mae": 6.623413701985249,
+  "rmse": 8.259328656095075,
+  "r2": 0.48214495274338764,
+  "risk_accuracy": 0.5,
+  "training_rows": 180,
+  "data_note": "Synthetic demonstration data"
+}
